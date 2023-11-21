@@ -1,12 +1,12 @@
 {
   "name": "callbackcounter---npm",
   "version": "1.0.0",
-  "description": "",
+  "description": "This package is a callback counter that will count the number of times a callback function is called and return the number of times it was called.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Malik Talha",
   "license": "ISC"
 }
